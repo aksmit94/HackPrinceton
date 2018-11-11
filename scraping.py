@@ -19,8 +19,6 @@ def internal_generate(query, num_results):
         if (i % 2 == 1):
             s += data[i] + '\n'
     
-    print(s)
-        
     # write to file
     file = open('papers.txt','w')
     file.write(s)
