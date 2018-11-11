@@ -1,6 +1,9 @@
 import urllib.request
+import matplotlib.pyplot as plt
 from word_cloud import get_word_cloud
 from nltk.corpus import wordnet as wn
+from wordcloud import WordCloud
+
 
 def gen_syn(word):
     synonyms = []
@@ -11,7 +14,6 @@ def gen_syn(word):
 
     x = set(synonyms)
     return (x)
-
 
 
 def internal_generate(query, num_results):
@@ -44,9 +46,9 @@ def internal_generate(query, num_results):
     file = open('papers.txt','w')
     file.write(s)
 
-
+    
 def generate_text(query):
-    num_results = 100
+    num_results = 1000
     internal_generate(query, num_results)
     get_word_cloud('papers.txt')
     

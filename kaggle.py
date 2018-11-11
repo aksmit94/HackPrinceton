@@ -34,5 +34,3 @@ def get_data(keyword):
             break
         
     return link + '/data'
-
-print (get_data(str(input())))
