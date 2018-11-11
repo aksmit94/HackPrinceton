@@ -43,9 +43,13 @@ Work with more visually appealing libraries (like bqplot) for better visualizati
 
 Simply run the notebook hackathon_princeton_v1.ipynb, you will be able to get the idea you want
 
-Example of main ideas extracted from scientific research paper
+Example of main ideas extracted from scientific research paper:
+
+
 ![alt text](https://github.com/aksmit94/HackPrinceton/blob/master/Screen%20Shot%202018-11-11%20at%2011.42.05%20AM.png)
 
-Example of approaches and technologies
+Example of approaches and technologies:
+
+
 ![alt text](https://github.com/aksmit94/HackPrinceton/blob/master/Screen%20Shot%202018-11-11%20at%2011.42.22%20AM.png)
 
