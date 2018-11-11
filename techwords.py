@@ -15,11 +15,11 @@ def gen_syn(word):
     x = set(synonyms)
     return (x)
 
-def count_words(words):       
+def count_words(words, string_s):       
     counts = {word: 0 for word in words}
     
     for word in counts:
-        counts[word] = words.count(word)
+        counts[word] = string_s.count(word)
     
     return counts
 
@@ -48,10 +48,6 @@ def internal_generate_tech(query, num_results):
         data[i] = data[i].replace('/', '')
         if (i % 2 == 1):
             s += data[i] + '\n'
-    
-    # # write to file
-    # file = open('papers.txt','w')
-    # file.write(s)
 
     # Scientific terms frequencies
     words = open('clean_list2.txt').readlines()
@@ -60,13 +56,11 @@ def internal_generate_tech(query, num_results):
         words[i] = words[i].replace('\n','')
         words[i] = ' ' + words[i] + ' '
 
-    counts = count_words(s)
+    counts = count_words(words, s)
 
     for word in list(counts):
         if(word == '' or counts[word] == 0):
             counts.pop(word)
-
-    print(counts)
 
     wordcloud = WordCloud().generate_from_frequencies(counts)
     plt.imshow(wordcloud, interpolation='bilinear')
