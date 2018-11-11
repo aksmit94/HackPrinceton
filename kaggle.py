@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from collections import Counter
 import re
 
 def get_data(keyword):
@@ -34,3 +33,7 @@ def get_data(keyword):
             break
         
     return link + '/data'
+
+if __name__ == '__main__':
+    keyword = 'homeless'
+    links_data = get_data(keyword)
