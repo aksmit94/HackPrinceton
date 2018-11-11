@@ -1,0 +1,363 @@
+automatic image tagging and object detection
+nudity detection
+censoring faces automatically
+horizon line estimation
+colorful image colorization
+nudity detection
+image similarity
+nuditydetectioni2v
+car make and model recognition
+ocr
+deepfashion
+illustration tagger
+gender classification
+face detection
+smart thumbnail
+age classification
+emotion recognition in the wild via convolutional neural networks and mapped binary patterns
+places365 classifier
+inceptionnet
+video transform
+photo quality enhancement
+recognize faces
+large-scale image memorability
+deep convolutional networks for saliency prediction
+image classifier
+skin color detection
+video metadata extraction
+body detection
+adversarial machine learning
+predictive analytics
+quantum machine learning
+robot learning
+developmental robotics
+biomedical informatics
+computer vision
+customer relationship management
+data mining
+email filtering
+inverted pendulum
+natural language processing
+nlp
+automatic summarization
+automatic taxonomy construction
+dialog system
+grammar checker
+language recognition
+handwriting recognition
+optical character recognition
+speech recognition
+machine translation
+question answering
+speech synthesis
+text mining
+term frequency–inverse document frequency
+tf–idf
+text simplification
+pattern recognition
+facial recognition system
+handwriting recognition
+image recognition
+optical character recognition
+speech recognition
+recommendation system
+collaborative filtering
+content-based filtering
+hybrid recommender systems
+search engine
+search engine optimization
+graphics processing unit
+tensor processing unit
+vision processing unit
+amazon machine learning
+microsoft azure machine learning studio
+distbelief
+tensorflow
+apache singa
+caffe
+h2o
+pytorch
+mlpack
+tensorflow
+torch
+cntk
+accord.net
+deeplearning4j
+theano
+scikit-learn
+almeida–pineda recurrent backpropagation
+alopex
+backpropagation
+bootstrap aggregating
+cn2 algorithm
+constructing skill trees
+dehaene–changeux model
+diffusion map
+dominance-based rough set approach
+dynamic time warping
+error-driven learning
+evolutionary multimodal optimization
+expectation–maximization algorithm
+fastica
+forward–backward algorithm
+generec
+genetic algorithm for rule set production
+growing self-organizing map
+hexq
+hyper basis function network
+idistance
+k-nearest neighbors algorithm
+kernel methods for vector output
+kernel principal component analysis
+leabra
+linde–buzo–gray algorithm
+local outlier factor
+logic learning machine
+logitboost
+manifold alignment
+minimum redundancy feature selection
+mixture of experts
+multiple kernel learning
+non-negative matrix factorization
+online machine learning
+out-of-bag error
+prefrontal cortex basal ganglia working memory
+pvlv
+q-learning
+quadratic unconstrained binary optimization
+query-level feature
+quickprop
+radial basis function network
+randomized weighted majority algorithm
+reinforcement learning
+repeated incremental pruning
+ripper
+rprop
+rule-based machine learning
+skill chaining
+sparse pca
+state–action–reward–state–action
+stochastic gradient descent
+structured knn
+t-distributed stochastic neighbor embedding
+temporal difference learning
+wake-sleep algorithm
+weighted majority algorithm
+machine learning
+instance-based algorithm
+k-nearest neighbors algorithm
+knn
+learning vector quantization
+lvq
+self-organizing map
+som
+regression analysis
+logistic regression
+ordinary least squares regression
+olsr
+linear regression
+stepwise regression
+multivariate adaptive regression splines
+mars
+regularization algorithm
+ridge regression
+least absolute shrinkage and selection operator
+lasso
+elastic net
+least-angle regression
+lars
+classifiers
+probabilistic classifier
+naive bayes classifier
+binary classifier
+linear classifier
+hierarchical classifier
+dimensionality reduction
+canonical correlation analysis
+cca
+factor analysis
+feature extraction
+feature selection
+independent component analysis
+ica
+linear discriminant analysis
+lda
+multidimensional scaling
+mds
+non-negative matrix factorization
+nmf
+partial least squares regression
+plsr
+principal component analysis
+pca
+principal component regression
+pcr
+projection pursuit
+sammon mapping
+t-distributed stochastic neighbor embedding
+t-sne
+adaboost
+boosting
+bootstrap aggregating
+bagging
+ensemble averaging
+gradient boosted decision tree
+gbdt
+gradient boosting machine
+gbm
+random forest
+stacked generalization
+meta learning
+inductive bias
+metadata
+reinforcement learning
+q-learning
+state–action–reward–state–action
+sarsa
+temporal difference learning
+td
+learning automata
+aode
+artificial neural network
+association rule learning algorithms
+apriori algorithm
+eclat algorithm
+case-based reasoning
+gaussian process regression
+gene expression programming
+group method of data handling (gmdh)
+inductive logic programming
+instance-based learning
+lazy learning
+learning automata
+learning vector quantization
+logistic model tree
+minimum message length (decision trees, decision graphs, etc.)
+nearest neighbor algorithm
+analogical modeling
+probably approximately correct learning (pac) learning
+ripple down rules, a knowledge acquisition methodology
+symbolic machine learning algorithms
+support vector machines
+random forests
+ensembles of classifiers
+bootstrap aggregating (bagging)
+boosting (meta-algorithm)
+ordinal classification
+information fuzzy networks (ifn)
+conditional random field
+anova
+quadratic classifiers
+k-nearest neighbor
+boosting
+sprint
+bayesian networks
+naive bayes
+hidden markov models
+hierarchical hidden markov model
+bayesian knowledge base
+naive bayes
+gaussian naive bayes
+multinomial naive bayes
+averaged one-dependence estimators
+aode
+bayesian belief network
+bbn
+bayesian network
+bn
+decision tree
+classification and regression tree
+cart
+iterative dichotomiser 3
+id3
+c4.5 algorithm
+c5.0 algorithm
+chi-squared automatic interaction detection
+chaid
+decision stump
+conditional decision tree
+id3 algorithm
+random forest
+sliq
+fisher's linear discriminant
+linear regression
+logistic regression
+multinomial logistic regression
+naive bayes classifier
+perceptron
+support vector machine
+expectation-maximization algorithm
+vector quantization
+generative topographic map
+information bottleneck method
+feedforward neural network
+extreme learning machine
+convolutional neural network
+recurrent neural network
+long short-term memorylstm
+logic learning machine
+self-organizing map
+association rule learning
+apriori algorithm
+eclat algorithm
+fp-growth algorithm
+hierarchical clustering
+single-linkage clustering
+conceptual clustering
+birch
+dbscan
+expectation-maximization
+em
+fuzzy clustering
+hierarchical clustering
+k-means clustering
+k-medians
+mean-shift
+optics algorithm
+k-nearest neighbors classification
+k-nn
+local outlier factor
+active learning
+generative models
+low-density separation
+graph-based methods
+co-training
+transduction
+deep belief networks
+deep boltzmann machines
+deep convolutional neural networks
+deep recurrent neural networks
+hierarchical temporal memory
+generative adversarial networks
+deep boltzmann machine
+dbm
+stacked auto-encoders
+anomaly detection
+association rules
+bias-variance dilemma
+classification
+multi-label classification
+clustering
+data pre-processing
+empirical risk minimization
+feature engineering
+feature learning
+learning to rank
+occam learning
+online machine learning
+pac learning
+regression
+reinforcement learning
+semi-supervised learning
+statistical learning
+structured prediction
+graphical models
+bayesian network
+conditional random field
+crf
+hidden markov model
+hmm
+unsupervised learning
+vc theory
+deepmind
+google brain
